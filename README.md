@@ -12,6 +12,6 @@
     </div>
     <br />
     <div>
-        <a href=""><img alt="Discord Server" src="https://img.shields.io/discord/1127854927654428762?logo=discord&logoColor=white&color=5865F2" /></a>
+        <a href=""><img alt="Discord Server" src="https://img.shields.io/discord/1071449479468814366?logo=discord&logoColor=white&color=5865F2" /></a>
     </div>
 </div>
