@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**xitrumcute/xitrumcute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <div>
+        <b>Hello, I'm David Bepo</b>
+        <br />
+        <b>Simple a developer</b>
+    </div>
+    <br />
+    <div>
+        <a href="https://discord.com/users/899496792566169621" target="_blank">
+	        <img alt="Discord Presence" src="https://lanyard.cnrad.dev/api/899496792566169621?bg=1f1f1f&borderRadius=20px">
+        </a>
+    </div>
+    <br />
+    <div>
+        <a href=""><img alt="Discord Server" src="https://img.shields.io/discord/1127854927654428762?logo=discord&logoColor=white&color=5865F2" /></a>
+    </div>
+</div>
