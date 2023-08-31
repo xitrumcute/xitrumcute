@@ -15,3 +15,12 @@
         <a href=""><img alt="Discord Server" src="https://img.shields.io/discord/1060229696815636540?logo=discord&logoColor=white&color=5865F2" /></a>
     </div>
 </div>
+<details><summary>Who am I?</summary>
+<p>
+  
+- <img src="https://cdn.discordapp.com/attachments/820557032016969751/952436539118456882/flag-vietnam_1f1fb-1f1f3.png" alt="." width="16" height="16"/> A designer and a progammer from Vietnam
+- <img src="https://cdn.discordapp.com/emojis/952436840730861638.png" alt="." width="16" height="16"/> Discord Bot Developer
+- <img src="https://cdn.discordapp.com/emojis/912296822939193374.gif" alt="."  width="16" height="16" /> I am 19 years old. 
+- 🎮 I really like to code and play indie pixel art game like Dead Cells, also i like draw pixel art :> <img src="https://cdn.discordapp.com/emojis/1045355287806230598.webp?size=24&quality=lossless" alt="."/>    
+</p>
+</details>
