@@ -15,7 +15,7 @@
         <a href=""><img alt="Discord Server" src="https://img.shields.io/discord/1060229696815636540?logo=discord&logoColor=white&color=5865F2" /></a>
     </div>
 </div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=640&lines=Hi!+I'm+Kravon%2C+known+as+Jamien%230378+on+Discord;I'm+a+Discord+Bot+Developer+and+a+Game+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=640&lines=Hi!+I'm+David Bepo%2C+known+as+! David Bepo%230378+on+Discord;I'm+a+Discord+Bot+Developer+and+a+Game+Developer" alt="Typing SVG" /></a>
 <details><summary>Who am I?</summary>
 <p>
   
